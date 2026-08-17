@@ -125,9 +125,9 @@ tested architectures in this experiment.
 ## How to Run
 
 Clone the repository:
-
+```
 git clone https://github.com/urosmilosevic01/beetroot-drying-kinetics-ml.git
-
+```
 Install dependencies:
 
 pip install -r requirements.txt
