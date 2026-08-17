@@ -41,7 +41,7 @@ where:
 ## Model Architecture
 
 The main MLP model consists of:
-
+```
 Input (4)
 ↓
 Dense (64, ReLU)
@@ -63,7 +63,7 @@ Batch Normalization
 Dropout (0.2)
 ↓
 Output (1, Linear)
-
+```
 ## Training
 
 - Optimizer: Adam
