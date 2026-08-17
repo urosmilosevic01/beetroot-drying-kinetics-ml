@@ -110,7 +110,7 @@ tested architectures in this experiment.
 
 ### Architecture Comparison
 
-![Architecture Comparison](results/poredjenje_arhitektura.png)
+![Architecture Comparison](results/poređenje_arhitektura.png)
 
 ## Technologies
 
