@@ -125,17 +125,17 @@ tested architectures in this experiment.
 ## How to Run
 
 Clone the repository:
-```
+```bash
 git clone https://github.com/urosmilosevic01/beetroot-drying-kinetics-ml.git
 ```
 Install dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 Run:
-
+```bash
 python src/susenje_cvekle_ANN.py
-
+```
 ## Project Context
 
 This project was developed as part of a Bachelor's thesis on:
